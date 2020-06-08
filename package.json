@@ -1,0 +1,29 @@
+{
+  "name": "rxjs-examples",
+  "version": "1.0.0",
+  "description": "Learning how to use RxJS",
+  "devDependencies": {
+    "typescript": "^3.9.5"
+  },
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlam55555-playground/rxjs-examples.git"
+  },
+  "keywords": [
+    "rxjs",
+    "examples"
+  ],
+  "author": "Jonathan Lam <jlam55555@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jlam55555-playground/rxjs-examples/issues"
+  },
+  "homepage": "https://github.com/jlam55555-playground/rxjs-examples#readme",
+  "dependencies": {
+    "rxjs": "^6.5.5"
+  }
+}
